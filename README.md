@@ -1,8 +1,5 @@
 ### Hi, I am Dana 👋
 
-<!--
-**danarocha-br/danarocha-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![Linkedin URL](https://img.shields.io/twitter/url?color=%23F9A5D2&label=danarocha&logo=linkedin&logoColor=%23fff&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdanarocha%2F)
 ![Behance URL](https://img.shields.io/twitter/url?color=%23F9A5D2&label=danarocha&logo=behance&logoColor=%23fff&style=flat-square&url=http%3A%2F%2Fwww.be.net%2Fdanarocha)
 ![Dribbble URL](https://img.shields.io/twitter/url?color=%23F9A5D2&label=danarocha&logo=dribbble&logoColor=%23fff&style=flat-square&url=http%3A%2F%2Fwww.dribbble.com%2Fdanarocha)

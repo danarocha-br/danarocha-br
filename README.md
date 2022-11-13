@@ -12,7 +12,7 @@ I’m passionate about creating unique and functional experiences for applicatio
 
 I am also a front-end developer enthusiast currently in love with react.js, node.js and react-native. I enjoy designing and developing highly-polished user experiences.. I have a keen interest in WebGL experiments and UI animations. 
 
-* 🌍  I'm based in Tallinn, Estonia
+* 🌍  Currently based in Tallinn, Estonia
 * 🖥️  Portfolio at [danarocha.com](http://danarocha.com)
 * ✉️  Contact me at [hello@danarocha.com](mailto:hello@danarocha.com)
 
@@ -40,7 +40,9 @@ I am also a front-end developer enthusiast currently in love with react.js, node
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
 
-<b>My GitHub Stats</b>
+<hr />
+
+<b>GitHub Stats</b>
 
 <a href="http://www.github.com/danarocha-br"><img src="https://github-readme-stats.vercel.app/api?username=danarocha-br&show_icons=true&hide=contribs&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true&show_icons=true" alt="danarocha-br's GitHub stats" /></a>
 

@@ -16,7 +16,9 @@ I am also a front-end developer enthusiast currently in love with react.js, node
 * 🖥️  Portfolio at [danarocha.com](http://danarocha.com)
 * ✉️  Contact me at [hello@danarocha.com](mailto:hello@danarocha.com)
 
-### Skills
+<hr />
+
+<b> Skills </b>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>

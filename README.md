@@ -8,9 +8,9 @@
 [![Codepen Badge](https://img.shields.io/badge/-danarocha-0C3EE1?style=flat-square&labelColor=FF5290&logo=codepen&logoColor=white&link=https://codepen.io/dana-rocha)](https://codepen.io/dana-rocha)
 
 
-I’m passionate about creating unique and functional experiences for application and software interfaces. Currently crafting Design Systems. 
+I’m passionate about creating unique and functional experiences for applications and software interfaces. Currently crafting Design Systems. 
 
-I am also a front-end developer enthusiast currently in love with react.js, node.js and react-native. I enjoy designing and developing highly-polished user experiences.. I have a keen interest in WebGL experiments and UI animations. 
+I am also a front-end developer enthusiast currently in love with react.js, node.js, and react-native. I enjoy designing and developing highly-polished user experiences. I have a keen interest in WebGL experiments and UI animations. 
 
 * 🌍  Currently based in Tallinn, Estonia
 * 🖥️  Portfolio at [danarocha.com](http://danarocha.com)
@@ -31,13 +31,9 @@ I am also a front-end developer enthusiast currently in love with react.js, node
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
 
 <hr />

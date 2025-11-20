@@ -46,9 +46,4 @@ I am also a front-end developer enthusiast currently in love with react.js, node
 
 <a href="https://github.com/danarocha-br" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danarocha-br&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b> Check it out my latest posts </b>
-<!-- BLOG-POST-LIST:START -->
-- [Using design tokens on your design system for better cross-functional collaboration — Part 1](https://medium.com/@danarocha/using-design-tokens-on-your-design-system-for-better-cross-functional-collaboration-part-1-448ee8768416?source=rss-59ead9e04f47------2)
-- [Setting up a Design System in Storybook with React, Styled Components, Tailwind, and Typescript in…](https://medium.com/@danarocha/setting-up-a-design-system-in-storybook-with-react-styled-components-tailwind-and-typescript-in-3b1af21ce02b?source=rss-59ead9e04f47------2)
-<!-- BLOG-POST-LIST:END -->
 

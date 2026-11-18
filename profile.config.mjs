@@ -67,6 +67,9 @@ export default {
 
   // Public repos to feature (exactly three fit a row). Description, language and
   // stars are fetched from GitHub; set `description` here to override a long one.
+  // The whole section is hidden for now, until loupe and ui-skills are ready:
+  // set `showRepos` to true to bring it back.
+  showRepos: false,
   reposTitle: 'Selected repositories',
   repos: [
     { name: 'loupe' },

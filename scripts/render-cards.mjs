@@ -584,15 +584,17 @@ for (const [name, tokens] of Object.entries(config.themes)) {
     hero: hero(t),
     year: year(t),
     stars: stars(t),
-    title: sectionTitle(t),
   };
   config.tiles.forEach((cfg, i) => {
     cards[`tile-${cfg.id}`] = tile(t, cfg, i);
   });
   cards.toolkit = toolkit(t);
-  config.repos.forEach((cfg, i) => {
-    cards[`repo-${cfg.name}`] = repoCard(t, cfg, i);
-  });
+  if (config.showRepos) {
+    cards.title = sectionTitle(t);
+    config.repos.forEach((cfg, i) => {
+      cards[`repo-${cfg.name}`] = repoCard(t, cfg, i);
+    });
+  }
   cards.contact = contact(t);
   config.contact.links.forEach((cfg, i) => {
     cards[`link-${cfg.id}`] = linkCard(t, cfg, i, config.contact.links.length);
@@ -611,12 +613,16 @@ const rows = [
   [{ card: 'stars', alt: `${fmt(data.stars.total)} stars earned across ${data.stars.repositories} public repositories.` }],
   config.tiles.map((c) => ({ card: `tile-${c.id}`, href: c.href, alt: `${c.label}: ${c.title.join(' ')}. ${c.blurb}` })),
   [{ card: 'toolkit', alt: `${config.toolkit.title}. ${config.toolkit.groups.map((g) => `${g.label}: ${g.items.join(', ')}`).join('. ')}.` }],
-  [{ card: 'title', alt: config.reposTitle }],
-  config.repos.map((c) => ({
-    card: `repo-${c.name}`,
-    href: data.repos[c.name]?.url ?? `https://github.com/${config.login}/${c.name}`,
-    alt: `${c.name}: ${clean(c.description ?? data.repos[c.name]?.description ?? '')}`,
-  })),
+  ...(config.showRepos
+    ? [
+        [{ card: 'title', alt: config.reposTitle }],
+        config.repos.map((c) => ({
+          card: `repo-${c.name}`,
+          href: data.repos[c.name]?.url ?? `https://github.com/${config.login}/${c.name}`,
+          alt: `${c.name}: ${clean(c.description ?? data.repos[c.name]?.description ?? '')}`,
+        })),
+      ]
+    : []),
   [{ card: 'contact', href: `mailto:${config.contact.email}`, alt: `${config.contact.headline}. Email ${config.contact.email}.` }],
   config.contact.links.map((c) => ({ card: `link-${c.id}`, href: c.href, alt: `${c.label}: ${c.handle}` })),
 ];

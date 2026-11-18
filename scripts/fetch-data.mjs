@@ -23,7 +23,7 @@ function token() {
   }
 }
 
-const names = config.repos.map((r) => r.name);
+const names = config.showRepos ? config.repos.map((r) => r.name) : []; // nothing to fetch while the section is hidden
 const query = `
 query($login: String!${names.map((_, i) => `, $r${i}: String!`).join('')}) {
   user(login: $login) {

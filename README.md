@@ -1,49 +1,15 @@
-### Hi, I am Dana 👋
-
-
-[![Twitter Badge](https://img.shields.io/badge/-danarocha-0C3EE1?style=flat-square&labelColor=FF5290&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/danarocha)](https://www.linkedin.com/in/danarocha) 
-[![Behance Badge](https://img.shields.io/badge/-danarocha-0C3EE1?style=flat-square&labelColor=FF5290&logo=behance&logoColor=white&link=https://www.be.net/danarocha)](https://www.be.net/danarocha) 
-[![Dribbble Badge](https://img.shields.io/badge/-danarocha-0C3EE1?style=flat-square&labelColor=FF5290&logo=dribbble&logoColor=white&link=https://www.dribbble.com/danarocha)](https://www.dribbble.com/danarocha)
-[![Medium Badge](https://img.shields.io/badge/-@danarocha-0C3EE1?style=flat-square&labelColor=FF5290&logo=medium&logoColor=white&link=https://medium.com/@danarocha/)](https://medium.com/@danarocha/)
-[![Codepen Badge](https://img.shields.io/badge/-danarocha-0C3EE1?style=flat-square&labelColor=FF5290&logo=codepen&logoColor=white&link=https://codepen.io/dana-rocha)](https://codepen.io/dana-rocha)
-
-
-I’m passionate about creating unique and functional experiences for applications and software interfaces. Currently crafting Design Systems. 
-
-I am also a front-end developer enthusiast currently in love with react.js, node.js, and react-native. I enjoy designing and developing highly-polished user experiences. I have a keen interest in WebGL experiments and UI animations. 
-
-* 🌍  Currently based in Tallinn, Estonia
-* 🖥️  Portfolio at [danarocha.com](http://danarocha.com)
-* ✉️  Contact me at [hello@danarocha.com](mailto:hello@danarocha.com)
-
-<hr />
-
-<b> Skills </b>
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-
-<hr />
-
-<b>GitHub Stats</b>
-
-<a href="http://www.github.com/danarocha-br"><img src="https://github-readme-stats.vercel.app/api?username=danarocha-br&show_icons=true&hide=contribs&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true&show_icons=true" alt="danarocha-br's GitHub stats" /></a>
-
-<a href="http://www.github.com/danarocha-br"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danarocha-br&stroke=ffffff&background=22272e&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/danarocha-br" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danarocha-br&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
+<!-- profile-cards:start -->
+<!-- Generated by scripts/render-cards.mjs from profile.config.mjs. Edit those, not this block.
+     Spacing is baked into the SVGs: keep each row on one line with nothing between the images. -->
+<div align="center">
+<a href="https://danarocha.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/hero-dark.svg"><img src="./cards/hero-light.svg" width="100%" alt="Dana Rocha. Product Designer and creative developer. Crafting interfaces and experiences. 10+ years bridging design and code. Building the systems and tools between an idea and a shipped interface."></picture></a><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/year-dark.svg"><img src="./cards/year-light.svg" width="100%" alt="4,597 contributions in the last 12 months, drawn as one line per day around a ring. Busiest month: October, 1,333. Refreshed daily."></picture><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/stars-dark.svg"><img src="./cards/stars-light.svg" width="100%" alt="78 stars earned across 11 public repositories."></picture><br>
+<a href="https://danarocha.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/tile-design-dark.svg"><img src="./cards/tile-design-light.svg" width="33.333%" alt="Product design: Design systems. Currently shaping design systems at Pactum."></picture></a><a href="https://danarocha.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/tile-code-dark.svg"><img src="./cards/tile-code-light.svg" width="33.333%" alt="Creative development: Interfaces in code. React, TypeScript and motion, for highly polished user experiences."></picture></a><a href="https://danarocha.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/tile-play-dark.svg"><img src="./cards/tile-play-light.svg" width="33.333%" alt="Playground: Small experiments. Interaction details, motion studies and ideas in progress."></picture></a><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/toolkit-dark.svg"><img src="./cards/toolkit-light.svg" width="100%" alt="My toolkit. Design: Figma, Design tokens, Component libraries, Documentation, Accessibility, Interaction &amp; motion design. Code: React, TypeScript, Next.js, Node.js, HTML/CSS, SwiftUI."></picture><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/title-dark.svg"><img src="./cards/title-light.svg" width="100%" alt="Selected repositories"></picture><br>
+<a href="https://github.com/danarocha-br/loupe"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/repo-loupe-dark.svg"><img src="./cards/repo-loupe-light.svg" width="33.333%" alt="loupe: Inspect and override the props of real components in a running Next.js app"></picture></a><a href="https://github.com/danarocha-br/jolly-code"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/repo-jolly-code-dark.svg"><img src="./cards/repo-jolly-code-light.svg" width="33.333%" alt="jolly-code: A sleek, minimal and user-friendly tool inspired by ray.so, with extra features."></picture></a><a href="https://github.com/danarocha-br/ui-skills"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/repo-ui-skills-dark.svg"><img src="./cards/repo-ui-skills-light.svg" width="33.333%" alt="ui-skills: Skills for designers and engineers"></picture></a><br>
+<a href="mailto:hello@danarocha.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/contact-dark.svg"><img src="./cards/contact-light.svg" width="100%" alt="Let’s connect. Email hello@danarocha.com."></picture></a><br>
+<a href="https://danarocha.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/link-website-dark.svg"><img src="./cards/link-website-light.svg" width="25%" alt="Website: danarocha.com"></picture></a><a href="https://www.linkedin.com/in/danarocha"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/link-linkedin-dark.svg"><img src="./cards/link-linkedin-light.svg" width="25%" alt="LinkedIn: in/danarocha"></picture></a><a href="https://x.com/danarocha_"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/link-x-dark.svg"><img src="./cards/link-x-light.svg" width="25%" alt="X / Twitter: @danarocha_"></picture></a><a href="https://dribbble.com/danarocha"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/link-dribbble-dark.svg"><img src="./cards/link-dribbble-light.svg" width="25%" alt="Dribbble: danarocha"></picture></a>
+</div>
+<!-- profile-cards:end -->

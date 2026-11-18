@@ -1,0 +1,15 @@
+{
+  "name": "profile-cards",
+  "private": true,
+  "type": "module",
+  "description": "Animated SVG cards for the GitHub profile README, refreshed daily.",
+  "scripts": {
+    "fetch": "node scripts/fetch-data.mjs",
+    "render": "node scripts/render-cards.mjs",
+    "build": "node scripts/fetch-data.mjs && node scripts/render-cards.mjs",
+    "still": "STATIC=1 node scripts/render-cards.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
